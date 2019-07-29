@@ -12,6 +12,7 @@
 
 + (void)ay_sayHello{
     NSLog(@"hello world!");
+    NSLog(@"hello boys");
 }
 
 @end
