@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'AYBoysKit_Example' do
+  pod 'AYBoysKit', :path => '../'
+
+  target 'AYBoysKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
