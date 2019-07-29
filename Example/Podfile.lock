@@ -1,0 +1,16 @@
+PODS:
+  - AYBoysKit (0.1.0)
+
+DEPENDENCIES:
+  - AYBoysKit (from `../`)
+
+EXTERNAL SOURCES:
+  AYBoysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AYBoysKit: 255644d36eb40d17f41bb419a02687168dda8923
+
+PODFILE CHECKSUM: 37630a24cd1167a9bd392aa0b2d9e5585c52a9a4
+
+COCOAPODS: 1.7.1

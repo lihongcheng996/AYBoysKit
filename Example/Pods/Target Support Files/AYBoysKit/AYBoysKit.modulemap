@@ -1,0 +1,6 @@
+framework module AYBoysKit {
+  umbrella header "AYBoysKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_AYBoysKit_Tests {
+  umbrella header "Pods-AYBoysKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

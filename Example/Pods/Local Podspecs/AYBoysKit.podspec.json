@@ -1,0 +1,22 @@
+{
+  "name": "AYBoysKit",
+  "version": "0.1.0",
+  "summary": "A short description of AYBoysKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lhc/AYBoysKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lhc": "332890136@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lhc/AYBoysKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AYBoysKit/Classes/**/*"
+}
