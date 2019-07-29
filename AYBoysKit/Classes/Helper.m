@@ -15,4 +15,13 @@
     NSLog(@"hello boys");
 }
 
++ (void)ay_helloWithString:(NSString *)string{
+    NSLog(@"hello = %@",string);
+}
+
++ (void)ay_helloWithTitle:(NSString *)string{
+    NSLog(@"hello = %@",string);
+}
+
+
 @end

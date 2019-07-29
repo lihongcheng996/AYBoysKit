@@ -1,9 +1,9 @@
 {
   "name": "AYBoysKit",
-  "version": "0.1.0",
-  "summary": "A short description of AYBoysKit.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/lhc/AYBoysKit",
+  "version": "0.1.3",
+  "summary": "AY Boys Test33",
+  "description": "'AYBoysKit Init Update Project'",
+  "homepage": "https://github.com/lihongcheng996/AYBoysKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "lhc": "332890136@qq.com"
   },
   "source": {
-    "git": "https://github.com/lhc/AYBoysKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/lihongcheng996/AYBoysKit.git",
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "8.0"

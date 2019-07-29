@@ -14,6 +14,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)ay_sayHello;
 
+//打印输出字符串
++ (void)ay_helloWithString:(NSString *)string;
+
+//打印输出字符串
++ (void)ay_helloWithTitle:(NSString *)string;
+
 @end
 
 NS_ASSUME_NONNULL_END

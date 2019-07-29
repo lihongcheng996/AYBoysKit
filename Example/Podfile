@@ -1,5 +1,8 @@
 use_frameworks!
 
+source 'https://github.com/lihongcheng996/AYBoys.git'
+
+
 platform :ios, '8.0'
 
 target 'AYBoysKit_Example' do
